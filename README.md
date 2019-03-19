@@ -50,10 +50,15 @@ cd ..表示向上一级移动。
 > Directory of C:\Users
 >
 >12/29/2018  01:22 PM    <DIR>          .
+
 >12/29/2018  01:22 PM    <DIR>          ..
+
 >03/18/2019  11:20 PM    <DIR>          Insom
+
 >12/30/2018  05:18 AM    <DIR>          Public
+
 >               0 File(s)              0 bytes
+
 >               4 Dir(s)  326,636,441,600 bytes free
 
 输入cd [文件夹名]移动到想去的文件夹
