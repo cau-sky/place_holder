@@ -29,5 +29,7 @@ Rev. 0.01
 针对这个项目的github教程如下(读这个足够了):
 
 1.去[git](https://git-scm.com/)的网站下载git。 Download XXXX for windows即可。
+
 2.安装git。
+
 3.使用快捷键
