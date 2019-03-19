@@ -32,4 +32,9 @@ Rev. 0.01
 
 2.安装git。
 
-3.使用快捷键
+3.使用快捷键WIN+R打开运行程序，输入cmd启动命令提示符:
+> C:\Users\Insom>
+使用cd指令可移动当前目录(即change directory)
+> cd ..
+> C:\Users>
+表示向上一级移动。 可以键入dir指令来罗列当前路径下的文件
