@@ -20,7 +20,7 @@ Rev. 0.01
 
 基础教程：
 
-[Markdown](https://www.jianshu.com/p/q81RER)
+[Markdown](https://www.jianshu.com/p/q81RER) 亦或者直接使用任何文本编辑器打开这个README.md文件学习语法即可
 
 [Github](https://guides.github.com/activities/hello-world/)
 
