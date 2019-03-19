@@ -40,7 +40,7 @@ Rev. 0.01
 
 ![Scheme](img/rm.png)
 
-RM不需要做过多介绍了，VX里面好像把之前的ruby换成了JavaScript。 用这个的毛病是我们要
+RM不需要做过多介绍了，VX里面好像把之前的ruby换成了JavaScript。 用这个的毛病是这软件本身是拿来作RPG而不是SRPG的，因此要稍微动手写下JS插件，当然我认为网上一定有现成的可用，只是素质如何就不知道了。
 
 3. [Pygame](https://www.pygame.org/news)
 
