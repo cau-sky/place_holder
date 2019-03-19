@@ -18,7 +18,42 @@ Rev. 0.01
 
 九层之台，起于累土。 游戏的开发非一朝一夕即可完成之事，考虑到各位志愿者时间也并不充裕，我们的开发周期以**两周**为一个段落。 版本控制程序是**github**(在代码不能使用的时候帮助我们回溯代码到上一个可用版本)，log文档请务必使用**markdown**语法完成。
 
+## ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 文件结构
+
+待补全。
+
+[上等人的提案](docs_demo/)
+
+[个人进度记录](log/)
+
+[图片](img/)
+
+## ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) 备选制作工具
+
+1. [SRPG Studio](https://store.steampowered.com/app/857320/SRPG_Studio/)
+
+![Scheme](img/srpg_studio.jpg)
+
+似乎是一款新晋游戏制作工具，可用于制作类似火纹一样的游戏，可自定义攻击帧，有少量素材附赠，不推荐steam购买因为我们尚且不知道是否会使用这个软件且对质量与后续支持一无所知。建议贴吧解决。
+
+2. [RPG Maker](https://zh.wikipedia.org/wiki/RPG%E8%A3%BD%E4%BD%9C%E5%A4%A7%E5%B8%AB#RPG_Maker_MV)
+
+![Scheme](img/rm.png)
+
+RM不需要做过多介绍了，VX里面好像把之前的ruby换成了JavaScript。 用这个的毛病是我们要
+
+3. [Pygame](https://www.pygame.org/news)
+
+[平台上唯一一款SRPG，东方系列](https://www.pygame.org/project/1106)
+
+![Scheme](img/pygame.png)
+
+相对于前面两个，Pygame对用户的代码编写能力有更高的要求。Pygame是Python的一个包，包含一些搭建引擎的基本功能，使用这个包意味着我们还要自己开发引擎(弱鸡),周期会加长，灵活度会变大，难度也变大，但是因为并没有自带的素材，所以画面可能更加丑陋。
+
+
 ## ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 基础教程：
+
+不论是markdown还是github都只是工具，卡太久的话不用就完事了。
 
 [Markdown](https://www.jianshu.com/p/q81RER) 亦或者直接使用任何文本编辑器打开这个README.md文件学习语法即可
 
@@ -99,4 +134,6 @@ cd ..表示向上一级移动。
 > git pull
 
 同步你的本地文件和服务器端文件，避免有他人改动。
+
+日后我们经常使用的也只有这几个命令，如果过于繁复，那也可以不用，直接去https://github.com/cau-sky/place_holder.git 下载压缩包，解压缩后在文件夹内右键点选git bash here，重复git add --all之后的步骤即可。
 
